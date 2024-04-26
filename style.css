@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif;
+}
+.line{
+    border: 2px solid black;
+    display: flex;
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    text-decoration:underline;
+}
+.line-1{
+    border: 2px solid black;
+    margin-bottom: 10px ;
+   padding-left: 10px;
+   padding-top: 0px;
+  font-size: 20px;
+  display: flex;
+    justify-content:space-between;
+}
+.footer
+{
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+.line-2{
+    border: 2px solid black;
+
+    margin-bottom: 10px ;
+   padding-left: 10px;
+   padding-top: 0px;
+  font-size: 20px;
+    justify-content:space-evenly;
+}
+.line-1 button{
+   margin: 30px;
+   
+  
+    
+}
+img{
+    width: 100px;
+   display: flex;
+   justify-items: end;
+}
+
